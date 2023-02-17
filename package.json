@@ -1,5 +1,6 @@
 {
   "name": "mychat",
+  "type":"commonjs",
   "version": "1.0.0",
   "description": "socket.io chat app",
   "main": "backend/index.js",
